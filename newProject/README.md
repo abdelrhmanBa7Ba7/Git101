@@ -13,4 +13,4 @@ example:
 git checkout feature-branch
 git rebase main
 --A pull request allows merging changes from one branch to another
-![Project Image](project_image.jpeg)
+![Project Image](myimage.jpeg)
